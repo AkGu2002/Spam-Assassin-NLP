@@ -35,7 +35,7 @@ tfidf = pickle.load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
 
-st.title("Spam Assassin")
+st.title("Spam Assassin By Akshita Gupta")
 
 input_sms = st.text_area("Enter the message")
 
