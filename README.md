@@ -69,7 +69,9 @@ Streamlit
 
 ### Top Performing Model
 Combined Support Vector Classifier, Multinomial Naive Bayes and Extra Trees Classifier to build an Voting Classifier Model( Ensemble Model) whose:
+
 *accuracy:* 0.9816247582205029
+
 *precision:* 0.983739837398374
 
 
