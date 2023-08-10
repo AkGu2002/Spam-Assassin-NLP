@@ -67,6 +67,11 @@ Streamlit
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/177d75ff-32ca-4065-bbd9-5e64ee30d14a)
 
 
+### Top Performing Model
+Combined Support Vector Classifier, Multinomial Naive Bayes and Extra Trees Classifier to build an Voting Classifier Model( Ensemble Model) whose:
+*accuracy:* 0.9816247582205029
+*precision:* 0.983739837398374
+
 
 
 
