@@ -43,21 +43,27 @@ Streamlit
 
 ### Model Building
 * ##### Imbalanced Data
+
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/13ec0cb8-f49b-4564-b3d1-757a9cfc66b0)
 
 * Visualizing the trend of number of characters, number of words and number of sentences in a spam/ ham SMS
+
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/9e4d774f-389e-461b-8d2a-d0b5d7cdf812)
 
 * Plotting the trend as a Heatmap
+
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/04513436-f54a-44c7-986e-da3aa30dc6dd)
 
 * Most common words in a Spam Corpus
+  
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/089dbb97-cdbd-4e41-91a2-4492aba02f6c)
 
 * Most common words in a Ham Corpus
+  
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/1e3892f2-201d-4058-a6cb-8daa8daa91c6)
 
 * Performance of Various Models
+  
 ![image](https://github.com/AkGu2002/Spam-Assassin-NLP/assets/74046369/177d75ff-32ca-4065-bbd9-5e64ee30d14a)
 
 
