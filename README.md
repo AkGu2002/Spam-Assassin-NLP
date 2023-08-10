@@ -22,7 +22,7 @@ Steps followed are:
 ### Input
 https://www.kaggle.com/datasets/bagavathypriya/spam-ham-dataset (Originally taken from UCI machine learning repository) . Note that although the dataset says SMS, it has a significant resemblance to the E-Mail spam dataset also.
 
-Used NLP techniques such as tokeniztion , lemmatization , stop words removal , punctuation removal using NLTK and regex. Also performed feature engineering and handcrafted features such as number of digits, email length, number of punctuations etc which further helped in predictions . Implemented models such as Multinomial Naive Bayes, Gaussian Naive Bayes, Bernouli Nave Bayes and many other classification models to check the best performing model through accuracy and precision. Combined some best performing models to make an ensemble model to tweak the accuracy score from 97.87 to 98.16. 
+Used NLP techniques such as tokenization , lemmatization , stop words removal , punctuation removal using NLTK and regex. Also performed feature engineering and handcrafted features such as number of digits, email length, number of punctuations etc which further helped in predictions . Implemented models such as Multinomial Naive Bayes, Gaussian Naive Bayes, Bernouli Nave Bayes and many other classification models to check the best performing model through accuracy and precision. Combined some best performing models to make an ensemble model to tweak the accuracy score from 97.87 to 98.16. 
 
 Lastly, designed a basic UI to accept new input to be classified as spam/ ham. The model was saved using Pickle(a Python tool) and hosted using streamlit.
 
